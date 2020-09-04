@@ -1,0 +1,19 @@
+{
+  "name": "make-node-package",
+  "version": "0.1.0",
+  "description": "make a node package to change command line color",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Maxwell Seifert",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
